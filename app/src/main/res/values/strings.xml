@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">myChat</string>
+    <string name="this_is_mainactivity">This is MainActivity</string>
+    <string name="this_is_mainacitivity">This is MainAcitivity</string>
+    <string name="button">Button</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
